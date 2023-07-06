@@ -20,9 +20,9 @@ But be informed that Jarvis only answers if you call his name.
 • Prerequisites
 
 To run Jarvis, you need to have the following libraries installed:
-speech_recognition
-pyttsx3
-pywhatkit
-datetime
-wikipedia
-pyjokes
+1. speech_recognition
+2. pyttsx3
+3. pywhatkit
+4. datetime
+5. wikipedia
+6. pyjokes
